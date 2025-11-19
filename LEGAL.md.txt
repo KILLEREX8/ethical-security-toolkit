@@ -1,0 +1,40 @@
+
+**LEGAL.md**
+```markdown
+# Legal Guidelines for Ethical Security Testing
+
+## 🏛️ Legal Compliance
+
+### Required Authorizations
+- Written permission from system owner
+- Signed testing agreement
+- Defined scope and boundaries
+- Emergency contact information
+
+### Prohibited Activities
+- Testing without explicit permission
+- Accessing production systems without authorization
+- Data exfiltration or modification
+- Denial of service attacks
+- Social engineering without consent
+
+### Documentation Requirements
+- Maintain detailed testing logs
+- Document all findings
+- Preserve evidence of authorization
+- Follow responsible disclosure
+
+## 📜 Regulatory Frameworks
+
+Ensure compliance with:
+- Computer Fraud and Abuse Act (CFAA)
+- General Data Protection Regulation (GDPR)
+- Local computer crime laws
+- Industry-specific regulations
+
+## 🛡️ Professional Certifications
+
+Recommended certifications:
+- OSCP (Offensive Security Certified Professional)
+- CEH (Certified Ethical Hacker)
+- CISSP (Certified Information Systems Security Professional)

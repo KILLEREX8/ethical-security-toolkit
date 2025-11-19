@@ -1,0 +1,36 @@
+# Log files
+*.log
+security_testing.log
+professional_testing.log
+
+# Generated reports
+*_report_*
+security_report_*
+
+# Sensitive data
+*.key
+*.pem
+*.crt
+config.ini
+passwords.txt
+
+# Metasploit
+msfconsole_history
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
